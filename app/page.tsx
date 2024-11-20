@@ -146,8 +146,8 @@ export default function Component() {
                     src="/star.png" 
                     alt="Team working on web design" 
                     className="rounded-lg size-72"
-                  />
-                </div> */}
+                  /> */}
+                </div>
               </div>
               <div className="md:w-1/2 md:pl-12">
                 <h2 className="text-4xl font-bold mb-6">About Nebula Web</h2>
